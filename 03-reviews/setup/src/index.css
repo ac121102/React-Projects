@@ -245,6 +245,7 @@ main {
   transition: var(--transition);
   border-color: transparent;
   cursor: pointer;
+  font-weight: bold;
 }
 .random-btn:hover {
   background: var(--clr-primary-5);
